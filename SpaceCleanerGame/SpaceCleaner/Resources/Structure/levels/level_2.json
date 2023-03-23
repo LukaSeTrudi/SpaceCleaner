@@ -1,0 +1,20 @@
+﻿{
+    "waves": [
+        {
+            "meteorites": [
+                {
+                    "type": 1,
+                    "number": 15,
+                    "time_between": 1,
+                    "xOffset": 0,
+                    "yOffset": 300,
+                    "startX": "center",
+                    "xVelocity": 0.2,
+                    "yVelocity": 1.9
+                }
+            ],
+            "bosses": [],
+            "time_delay": 0
+        }
+    ]
+}

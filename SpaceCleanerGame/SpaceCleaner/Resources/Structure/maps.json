@@ -1,0 +1,14 @@
+﻿[
+    {
+        "name": "Map_1",
+        "bg_full": "map/Maps/Map_01/Map_01_1080x3000",
+        "layer0": "map/Maps/Map_01/Layers/BG_1080x3000",
+        "layer1": "map/Maps/Map_01/Layers/Decor_A_1080x3000",
+        "layer2": "map/Maps/Map_01/Layers/Decor_B_1080x3000",
+
+        "random": 222,
+        "levels": [
+
+        ]
+    }
+]

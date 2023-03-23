@@ -1,0 +1,14 @@
+﻿{
+    "random_seed": 0,
+    "levels": [
+        "levels/level_1.json",
+        "levels/level_2.json",
+        "levels/level_3.json",
+        "levels/level_4.json",
+        "levels/level_5.json",
+        "levels/level_6.json",
+        "levels/level_7.json",
+        "levels/level_8.json",
+        "levels/level_9.json"
+    ]
+}
